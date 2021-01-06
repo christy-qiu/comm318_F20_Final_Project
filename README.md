@@ -1,3 +1,11 @@
 ## My final project for COMM318 _Stories from Data_ (Fall2020)
 
-* You will edit this file to act as the main index page for your project 
+### What employment and user behavior trends can we see LinkedIn data?
+
+COVID-19 has impacted the U.S. economy in many unprecedented ways, and one of the pandemic's greatest impacts is on employement. The unemployment rate climbed to a historic high of 14.7 percent in April, and based on Pew Research, "unemployment rose higher in three months of COVID-19 than it did in two years of the Great Recession." Given that restaurants, hotels, movie theaters, and amusement parks have been closed amid the lockdown, the sectors that have been most impacted by COVID-19 have included restaurants and bars, travel and transportation, and entertainment. In fact, the leisure and hospitality sector has been hit hardest by the COVID-19 crisis with more than 4.8 million industry workers unemployed at the end of April, resulting in an unemployment rate of 39%.
+
+Now, more than ever, people are leveraging digital tools, like LinkedIn, to make themselves more marketable in this difficult job market. I'd like to look at LinkedIn data (from pre-Covid) to see the characteristics of people who were working at Fortune 500 companies and derive some trends to show what allowed them to stand out. I'd also like to look at employment trends with regards to gender, race, and age to identify areas that require improvement and areas that are improving.
+
+By examining LinkedIn data collected from Kaggle, I set out on a 4-part analysis. In the first part, I ask 2 gender-related questions: one about the gender leadership gap and another about hiring bias against women. Similarly, I posed 2 race-related questions in the second part, and in the third part, I tackled 2 age-related questions. In the last part, I examine the features of LinkedIn, such as LinkedIn influencers, premium membership, and profile pictures.
+
+Having produced interesting insights from my analysis, I hope my blog post becomes a helpful resource to LinkedIn users, job applicants, employers, and all who come across this project!
